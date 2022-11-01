@@ -9,8 +9,8 @@ const App = () => (
     <Navbar />
     <Header />
     <AboutUs />
-    {/* <SpecialMenu />
-    <Chef />
+    <SpecialMenu />
+    {/* <Chef />
     <Intro />
     <Laurels />
     <Gallery />
